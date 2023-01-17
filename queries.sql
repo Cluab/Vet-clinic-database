@@ -69,7 +69,7 @@ DELETE FROM animals WHERE date_of_birth > '2022-01-01';
 SAVEPOINT SP1;
 
 -- Update the animals table by setting the weight_kg column to be negative for all animals.
-UPDATE FROM animals SET weight_kg = weight_kg * -1;
+UPDATE animals SET weight_kg = weight_kg * -1;
 
 -- Verify that the change was made
 SELECT weight_kg FROM animals;
@@ -78,7 +78,7 @@ SELECT weight_kg FROM animals;
 ROLLBACK TO SP1;
 
 -- update the animals table by setting the weight_kg column to be multiplied by -1 for all animals who have a negative weight_kg
-UPDATE FROM animals SET weight_kg = weight_kg * -1 WHERE weight_kg < 0;
+UPDATE animals SET weight_kg = weight_kg * -1 WHERE weight_kg < 0;
 
 -- Verify that the change was made
 SELECT weight_kg FROM animals;

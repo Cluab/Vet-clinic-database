@@ -40,7 +40,7 @@ UPDATE animals SET species = 'pokemon' WHERE species IS NULL;
 COMMIT;
 
 -- Verify that the changes made in the transaction persist after the commit
-SELECT COUNT(*) FROM animals WHERE species = 'digimon' OR species = 'pokemon'
+SELECT * FROM animals WHERE species = 'digimon' OR species = 'pokemon'
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 

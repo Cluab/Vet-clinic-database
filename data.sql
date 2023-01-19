@@ -54,7 +54,7 @@ INSERT INTO species (name) VALUES ('Digimon');
 
 ---
 
-INSERT INTO vets (name, age, date_of_graduation) VALUES ('William Teach', 45, '2000-04-23');//
+INSERT INTO vets (name, age, date_of_graduation) VALUES ('William Tatcher', 45, '2000-04-23');//
 INSERT INTO vets (name, age, date_of_graduation) VALUES ('Maisy Smith', 26, '2019-01-17');
 INSERT INTO vets (name, age, date_of_graduation) VALUES ('Stephanie Mendez', 64, '1981-05-04');
 INSERT INTO vets (name, age, date_of_graduation) VALUES ('Jack Harkness', 38, '2008-06-08');
@@ -89,8 +89,4 @@ INSERT INTO visits (animal_id, vet_id, date_of_visit) VALUES (9, 2, '2020-08-03'
 INSERT INTO visits (animal_id, vet_id, date_of_visit) VALUES (9, 3, '2020-05-24');
 INSERT INTO visits (animal_id, vet_id, date_of_visit) VALUES (9, 1, '2021-01-11');
 
-
-
-
-
-
+---

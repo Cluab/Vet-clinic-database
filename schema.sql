@@ -38,3 +38,12 @@ CREATE TABLE species (
     id			SERIAL PRIMARY KEY,
 	name	    VARCHAR(250)
 )
+------------------------------------------------
+
+CREATE TABLE vets (
+	id 					        INT GENERATED ALWAYS AS IDENTITY,
+	name 				        VARCHAR(250),
+	age					        INT,
+	date_of_graduation	DATE,
+	PRIMARY KEY (id)
+)

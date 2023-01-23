@@ -3,7 +3,6 @@
 > This template should be used for database related projects at Microverse.
 > Generate your own repository, update this README and edit all files content while working on projects. You should not be adding any new files unless asked otherwise.
 
-
 ## Getting Started
 
 This repository includes files with plain SQL that can be used to recreate a database:
@@ -35,7 +34,6 @@ REQUIRED SECTIONS:
 
 After you're finished please remove all the comments and instructions!
 -->
-
 
 <!-- TABLE OF CONTENTS -->
 
@@ -96,8 +94,6 @@ After you're finished please remove all the comments and instructions!
   </ul>
 </details>
 
-
-
 ## 💻 Getting Started <a name="getting-started"></a>
 
 > Describe how a new developer could make use of your project.
@@ -106,13 +102,11 @@ To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-
- In order to run this project you need to install these prerequisites:
+In order to run this project you need to install these prerequisites:
 
 - If you're running on Windows you can download the prerequisites from the links down below:
 
 > [Git](https://git-scm.com/)
-
 
 - If you're running on Linux follow these steps down below:
 
@@ -121,8 +115,6 @@ To get a local copy up and running, follow these steps.
 ```sh
  sudo apt install git
 ```
-
- 
 
 ### Setup
 
@@ -137,8 +129,6 @@ Clone this repository to your desired folder:
 
 Install this project with:
 
-
-
 ```sh
   postgreSQL
 ```
@@ -147,23 +137,17 @@ Install this project with:
 
 To run the project, execute the following command:
 
-
-
 ```sh
-  open pg admin 4 
+  open pg admin 4
 ```
-
 
 ### Run tests
 
 To run tests, run the following command:
 
-
 ```sh
   create a database called Vet-clinic and code past the code in the query tools section
 ```
-
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -175,8 +159,12 @@ To run tests, run the following command:
 
 - GitHub: [Ibrahim Suhail Alyousefi](https://github.com/Cluab)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+👤 **Belal Gamal**
 
+- GitHub: [Belal Gamal](https://github.com/belalgamal46)
+- LinkedIn: [@belalgamal](https://www.linkedin.com/in/belalgamal/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 
@@ -211,7 +199,6 @@ Give a ⭐️ if you like this project!
 - **what does postgreSQL do exactly**
 
   - PostgreSQL is an open-source relational database management system (RDBMS) that is used to store and manage data in a structured format. It is a powerful, feature-rich and highly extensible database system that can be used for a wide variety of purposes, from small personal projects to large enterprise applications.
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

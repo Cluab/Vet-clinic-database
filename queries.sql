@@ -224,6 +224,15 @@ GROUP BY species.name
 ORDER BY COUNT(visits.animal_id) DESC LIMIT 1;
 
 
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+-- performance audit
+
+-- create an index on the "animal_id" column of the visits table to improve the performance of the following query:
+
+SELECT COUNT(*) FROM visits where animal_id = 4;
+
 
 
 

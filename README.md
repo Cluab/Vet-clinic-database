@@ -1,17 +1,3 @@
-# curriculum-databases-projects-template
-
-> This template should be used for database related projects at Microverse.
-> Generate your own repository, update this README and edit all files content while working on projects. You should not be adding any new files unless asked otherwise.
-
-
-## Getting Started
-
-This repository includes files with plain SQL that can be used to recreate a database:
-
-- Use [schema.sql](./schema.sql) to create all tables.
-- Use [data.sql](./data.sql) to populate tables with sample data.
-- Check [queries.sql](./queries.sql) for examples of queries that can be run on a newly created database. **Important note: this file might include queries that make changes in the database (e.g., remove records). Use them responsibly!**
-
 <a name="readme-top"></a>
 
 <!--
@@ -35,7 +21,6 @@ REQUIRED SECTIONS:
 
 After you're finished please remove all the comments and instructions!
 -->
-
 
 <!-- TABLE OF CONTENTS -->
 
@@ -63,31 +48,13 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 Vet Clinic Database <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
-
-**[your_project__name]** is a...
+**Vet Clinic Database** is a database created for practice on sql that contains animals data
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
-> Describe the tech stack and include only the relevant sections that apply to your project.
-
-<details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
 
 <details>
 <summary>Database</summary>
@@ -95,8 +62,6 @@ After you're finished please remove all the comments and instructions!
     <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
   </ul>
 </details>
-
-
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -106,13 +71,11 @@ To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-
- In order to run this project you need to install these prerequisites:
+In order to run this project you need to install these prerequisites:
 
 - If you're running on Windows you can download the prerequisites from the links down below:
 
 > [Git](https://git-scm.com/)
-
 
 - If you're running on Linux follow these steps down below:
 
@@ -121,8 +84,6 @@ To get a local copy up and running, follow these steps.
 ```sh
  sudo apt install git
 ```
-
- 
 
 ### Setup
 
@@ -137,8 +98,6 @@ Clone this repository to your desired folder:
 
 Install this project with:
 
-
-
 ```sh
   postgreSQL
 ```
@@ -147,23 +106,17 @@ Install this project with:
 
 To run the project, execute the following command:
 
-
-
 ```sh
-  open pg admin 4 
+  open pg admin 4
 ```
-
 
 ### Run tests
 
 To run tests, run the following command:
 
-
 ```sh
   create a database called Vet-clinic and code past the code in the query tools section
 ```
-
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -175,8 +128,12 @@ To run tests, run the following command:
 
 - GitHub: [Ibrahim Suhail Alyousefi](https://github.com/Cluab)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+👤 **Belal Gamal**
 
+- GitHub: [Belal Gamal](https://github.com/belalgamal46)
+- LinkedIn: [@belalgamal](https://www.linkedin.com/in/belalgamal/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 
@@ -211,7 +168,6 @@ Give a ⭐️ if you like this project!
 - **what does postgreSQL do exactly**
 
   - PostgreSQL is an open-source relational database management system (RDBMS) that is used to store and manage data in a structured format. It is a powerful, feature-rich and highly extensible database system that can be used for a wide variety of purposes, from small personal projects to large enterprise applications.
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

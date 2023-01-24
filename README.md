@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 
-<iframe width="560" height="315" src='https://dbdiagram.io/embed/63cfaf55296d97641d7bb5e6'></iframe>
+![Alt text](./schema.png)
 
 <!-- TABLE OF CONTENTS -->
 
@@ -9,7 +9,7 @@
 
 # 📖 Vet Clinic Database <a name="about-project"></a>
 
-**Vet Clinic Database** is a database created for practice on sql that contains animals data
+**Vet Clinic Database** is a database created on sql that contains animals data
 
 ## 🛠 Built With <a name="built-with"></a>
 
